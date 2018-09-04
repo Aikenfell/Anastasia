@@ -1,0 +1,2970 @@
+{
+    "1001001": {
+        "Skill Name": "\u6226\u58eb\u306e\u529b",
+        "Skill Effects": "1001001"
+    },
+    "1001002": {
+        "Skill Name": "\u738b\u8005\u306e\u529b",
+        "Skill Effects": "1001002"
+    },
+    "1001003": {
+        "Skill Name": "\u8987\u738b\u306e\u529b",
+        "Skill Effects": "1001003"
+    },
+    "1001004": {
+        "Skill Name": "\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1001004"
+    },
+    "1001101": {
+        "Skill Name": "\u8056\u96c4\u306e\u9583\u5203",
+        "Skill Effects": "1001001,11080000"
+    },
+    "1001102": {
+        "Skill Name": "\u8056\u96c4\u306e\u8f1d\u5203",
+        "Skill Effects": "1001002,11080001"
+    },
+    "1001103": {
+        "Skill Name": "\u8056\u96c4\u306e\u714c\u5203",
+        "Skill Effects": "1001003,11080002"
+    },
+    "1002001": {
+        "Skill Name": "\u6226\u58eb\u306e\u52a0\u8b77",
+        "Skill Effects": "1002001"
+    },
+    "1002002": {
+        "Skill Name": "\u738b\u8005\u306e\u52a0\u8b77",
+        "Skill Effects": "1002002"
+    },
+    "1002003": {
+        "Skill Name": "\u8987\u738b\u306e\u52a0\u8b77",
+        "Skill Effects": "1002003"
+    },
+    "1002004": {
+        "Skill Name": "\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1002004"
+    },
+    "1003001": {
+        "Skill Name": "\u6226\u58eb\u306e\u9b54\u58c1",
+        "Skill Effects": "1003001"
+    },
+    "1003002": {
+        "Skill Name": "\u738b\u8005\u306e\u9b54\u58c1",
+        "Skill Effects": "1003002"
+    },
+    "1003003": {
+        "Skill Name": "\u8987\u738b\u306e\u9b54\u58c1",
+        "Skill Effects": "1003003"
+    },
+    "1003004": {
+        "Skill Name": "\u7d71\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1003004"
+    },
+    "1003100": {
+        "Skill Name": "\u9b54\u73e0\u306e\u5b88\u57df",
+        "Skill Effects": "1003002,6010109,8017100"
+    },
+    "1003101": {
+        "Skill Name": "\u9b54\u73e0\u306e\u8b77\u57df",
+        "Skill Effects": "1003003,6010109,8017101"
+    },
+    "1003102": {
+        "Skill Name": "\u9b54\u73e0\u306e\u7a1c\u57df",
+        "Skill Effects": "1003004,6010100,8017102"
+    },
+    "1003200": {
+        "Skill Name": "\u7149\u6c37\u306e\u9b54\u529b",
+        "Skill Effects": "1014003,4010003,7010003"
+    },
+    "1004001": {
+        "Skill Name": "\u6226\u58eb\u306e\u9b42",
+        "Skill Effects": "1004001"
+    },
+    "1004002": {
+        "Skill Name": "\u738b\u8005\u306e\u9b42",
+        "Skill Effects": "1004002"
+    },
+    "1004003": {
+        "Skill Name": "\u8987\u738b\u306e\u9b42",
+        "Skill Effects": "1004003"
+    },
+    "1004100": {
+        "Skill Name": "\u8ce2\u5149\u306e\u9b42",
+        "Skill Effects": "1004001,5080000"
+    },
+    "1004101": {
+        "Skill Name": "\u8ce2\u8f1d\u306e\u9b42",
+        "Skill Effects": "1004002,5080000"
+    },
+    "1004102": {
+        "Skill Name": "\u8ce2\u714c\u306e\u9b42",
+        "Skill Effects": "1004003,5080000"
+    },
+    "1005001": {
+        "Skill Name": "\u6226\u58eb\u306e\u6ce2\u52d5",
+        "Skill Effects": "1005001"
+    },
+    "1005002": {
+        "Skill Name": "\u738b\u8005\u306e\u6ce2\u52d5",
+        "Skill Effects": "1005002"
+    },
+    "1005003": {
+        "Skill Name": "\u8987\u738b\u306e\u6ce2\u52d5",
+        "Skill Effects": "1005003"
+    },
+    "1005004": {
+        "Skill Name": "\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1005004"
+    },
+    "1006001": {
+        "Skill Name": "\u6226\u58eb\u306e\u7834\u9b54",
+        "Skill Effects": "1006001"
+    },
+    "1006002": {
+        "Skill Name": "\u738b\u8005\u306e\u7834\u9b54",
+        "Skill Effects": "1006002"
+    },
+    "1006003": {
+        "Skill Name": "\u8987\u738b\u306e\u7834\u9b54",
+        "Skill Effects": "1006003"
+    },
+    "1006100": {
+        "Skill Name": "\u7d05\u8a93\u306e\u8987\u9583",
+        "Skill Effects": "1006004,2010005,5070015"
+    },
+    "1007001": {
+        "Skill Name": "\u6226\u58eb\u306e\u970a\u529b",
+        "Skill Effects": "1007001"
+    },
+    "1007002": {
+        "Skill Name": "\u738b\u8005\u306e\u970a\u529b",
+        "Skill Effects": "1007002"
+    },
+    "1007003": {
+        "Skill Name": "\u8987\u738b\u306e\u970a\u529b",
+        "Skill Effects": "1007003"
+    },
+    "1007100": {
+        "Skill Name": "\u5e7b\u8b5a\u306e\u6f70\u9583",
+        "Skill Effects": "1007001,2010003"
+    },
+    "1007101": {
+        "Skill Name": "\u5e7b\u8b5a\u306e\u66b4\u9583",
+        "Skill Effects": "1007002,2010004"
+    },
+    "1007102": {
+        "Skill Name": "\u5e7b\u8b5a\u306e\u6ec5\u9583",
+        "Skill Effects": "1007003,2010005"
+    },
+    "1008001": {
+        "Skill Name": "\u6226\u58eb\u306e\u8b77\u57df",
+        "Skill Effects": "1008001"
+    },
+    "1008002": {
+        "Skill Name": "\u738b\u8005\u306e\u8b77\u57df",
+        "Skill Effects": "1008002"
+    },
+    "1008003": {
+        "Skill Name": "\u8987\u738b\u306e\u8b77\u57df",
+        "Skill Effects": "1008003"
+    },
+    "1008004": {
+        "Skill Name": "\u7d71\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1008004"
+    },
+    "1009001": {
+        "Skill Name": "\u6226\u58eb\u306e\u547d\u8056",
+        "Skill Effects": "1009001"
+    },
+    "1009002": {
+        "Skill Name": "\u738b\u8005\u306e\u547d\u8056",
+        "Skill Effects": "1009002"
+    },
+    "1009003": {
+        "Skill Name": "\u8987\u738b\u306e\u547d\u8056",
+        "Skill Effects": "1009003"
+    },
+    "1010001": {
+        "Skill Name": "\u6226\u58eb\u306e\u9b54\u9b42",
+        "Skill Effects": "1010001"
+    },
+    "1010002": {
+        "Skill Name": "\u738b\u8005\u306e\u9b54\u9b42",
+        "Skill Effects": "1010002"
+    },
+    "1010003": {
+        "Skill Name": "\u8987\u738b\u306e\u9b54\u9b42",
+        "Skill Effects": "1010003"
+    },
+    "1010100": {
+        "Skill Name": "\u5e7b\u5b0c\u306e\u9b54\u9b42",
+        "Skill Effects": "1010003,9010058,9009058"
+    },
+    "1011001": {
+        "Skill Name": "\u5168\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1011001"
+    },
+    "1011002": {
+        "Skill Name": "\u5168\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1011002"
+    },
+    "1011003": {
+        "Skill Name": "\u5168\u6c38\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1011003"
+    },
+    "1012001": {
+        "Skill Name": "\u5168\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1012001"
+    },
+    "1012002": {
+        "Skill Name": "\u5168\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1012002"
+    },
+    "1012003": {
+        "Skill Name": "\u5168\u6c38\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1012003"
+    },
+    "1013001": {
+        "Skill Name": "\u5168\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1013001"
+    },
+    "1013002": {
+        "Skill Name": "\u5168\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1013002"
+    },
+    "1013003": {
+        "Skill Name": "\u5168\u6c38\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1013003"
+    },
+    "1014001": {
+        "Skill Name": "\u5168\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1014001"
+    },
+    "1014002": {
+        "Skill Name": "\u5168\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1014002"
+    },
+    "1014003": {
+        "Skill Name": "\u5168\u6c38\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1014003"
+    },
+    "1015001": {
+        "Skill Name": "\u6226\u58eb\u306e\u5a01\u5149",
+        "Skill Effects": "1015001"
+    },
+    "1015002": {
+        "Skill Name": "\u8987\u738b\u306e\u5a01\u5149",
+        "Skill Effects": "1015002"
+    },
+    "1015003": {
+        "Skill Name": "\u7d71\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1015003"
+    },
+    "1015004": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "1015004"
+    },
+    "1015005": {
+        "Skill Name": "\u738b\u8005\u306e\u5a01\u5149",
+        "Skill Effects": "1015011"
+    },
+    "1015101": {
+        "Skill Name": "\u7d14\u7d46\u306e\u5a01\u5149",
+        "Skill Effects": "1015001,5010000"
+    },
+    "1015102": {
+        "Skill Name": "\u8056\u7d46\u306e\u5a01\u5149",
+        "Skill Effects": "1015011,5010000"
+    },
+    "1015103": {
+        "Skill Name": "\u8f1d\u7d46\u306e\u5a01\u5149",
+        "Skill Effects": "1015002,5010001,6010100"
+    },
+    "1015300": {
+        "Skill Name": "\u84bc\u8a93\u306e\u8987\u8f1d",
+        "Skill Effects": "1015002,4010005,5050004"
+    },
+    "1018001": {
+        "Skill Name": "\u8c6a\u6602\u306e\u6975\u529b",
+        "Skill Effects": "1018001"
+    },
+    "1018002": {
+        "Skill Name": "\u8c6a\u6602\u306e\u58ca\u529b",
+        "Skill Effects": "1018002"
+    },
+    "1018003": {
+        "Skill Name": "\u8c6a\u6602\u306e\u795e\u529b",
+        "Skill Effects": "1018003"
+    },
+    "1018100": {
+        "Skill Name": "\u8c6a\u4fa0\u306e\u7f85\u5203",
+        "Skill Effects": "1018003,5030001"
+    },
+    "1019503": {
+        "Skill Name": "\u5239\u90a3\u306e\u525b\u529b",
+        "Skill Effects": "1019503"
+    },
+    "1019504": {
+        "Skill Name": "\u5239\u90a3\u306e\u58ca\u529b",
+        "Skill Effects": "1019504"
+    },
+    "1019505": {
+        "Skill Name": "\u5239\u90a3\u306e\u6975\u529b",
+        "Skill Effects": "1019505"
+    },
+    "1019506": {
+        "Skill Name": "\u5239\u90a3\u306e\u795e\u529b",
+        "Skill Effects": "1019506"
+    },
+    "1019507": {
+        "Skill Name": "\u65ac\u6483\u306e\u52c7\u8005",
+        "Skill Effects": "1019505"
+    },
+    "1019601": {
+        "Skill Name": "\u5239\u90a3\u306e\u795e\u5a01",
+        "Skill Effects": "1019601"
+    },
+    "1021102": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u529b",
+        "Skill Effects": "1021102"
+    },
+    "1021103": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u529b",
+        "Skill Effects": "1021103"
+    },
+    "1021104": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1021104"
+    },
+    "1021105": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1021105"
+    },
+    "1021202": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1021202"
+    },
+    "1021203": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1021203"
+    },
+    "1021204": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1021204"
+    },
+    "1021205": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1021205"
+    },
+    "1021302": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1021302"
+    },
+    "1021303": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1021303"
+    },
+    "1021304": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1021304"
+    },
+    "1021305": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1021305"
+    },
+    "1021401": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u9b42",
+        "Skill Effects": "1021402"
+    },
+    "1021402": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u9b42",
+        "Skill Effects": "1021401"
+    },
+    "1021403": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u9b42",
+        "Skill Effects": "1021403"
+    },
+    "1021404": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u9b42",
+        "Skill Effects": "1021404"
+    },
+    "1021501": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1021701"
+    },
+    "1021502": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1021702"
+    },
+    "1021503": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1021703"
+    },
+    "1021504": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1021704"
+    },
+    "1021601": {
+        "Skill Name": "\u4e94\u5149\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1021801"
+    },
+    "1021602": {
+        "Skill Name": "\u4e94\u8000\u795e\u306e\u8056\u8a93",
+        "Skill Effects": "1021802,5050001"
+    },
+    "1021603": {
+        "Skill Name": "\u4e94\u8000\u7d71\u795e\u306e\u8056\u8a93",
+        "Skill Effects": "1021803,5050002"
+    },
+    "1021604": {
+        "Skill Name": "\u4e94\u8000\u8987\u795e\u306e\u8056\u8a93",
+        "Skill Effects": "1021804,5050003"
+    },
+    "1022102": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u529b",
+        "Skill Effects": "1022102"
+    },
+    "1022103": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u529b",
+        "Skill Effects": "1022103"
+    },
+    "1022104": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1022104"
+    },
+    "1022105": {
+        "Skill Name": "\u516d\u6975\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1022105"
+    },
+    "1022202": {
+        "Skill Name": "\u516d\u5149\u306e\u52a0\u8b77",
+        "Skill Effects": "1022202"
+    },
+    "1022203": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1022203"
+    },
+    "1022204": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1022204"
+    },
+    "1022205": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1022205"
+    },
+    "1022401": {
+        "Skill Name": "\u516d\u5149\u306e\u9b42",
+        "Skill Effects": "1022401"
+    },
+    "1022402": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u9b42",
+        "Skill Effects": "1022402"
+    },
+    "1022403": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u9b42",
+        "Skill Effects": "1022403"
+    },
+    "1022404": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u9b42",
+        "Skill Effects": "1022404"
+    },
+    "1022405": {
+        "Skill Name": "\u516d\u6975\u8987\u795e\u306e\u9b42",
+        "Skill Effects": "1022405"
+    },
+    "1022501": {
+        "Skill Name": "\u516d\u5149\u306e\u5a01\u5149",
+        "Skill Effects": "1022501"
+    },
+    "1022502": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1022502"
+    },
+    "1022503": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1022503"
+    },
+    "1022504": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1022504"
+    },
+    "1022601": {
+        "Skill Name": "\u516d\u5149\u306e\u6ce2\u52d5",
+        "Skill Effects": "1022601"
+    },
+    "1022602": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1022602"
+    },
+    "1022603": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1022603"
+    },
+    "1022604": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1022604"
+    },
+    "1022605": {
+        "Skill Name": "\u516d\u6975\u8987\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1022605"
+    },
+    "1022701": {
+        "Skill Name": "\u516d\u5149\u306e\u8b77\u57df",
+        "Skill Effects": "1022701"
+    },
+    "1022702": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1022702"
+    },
+    "1022703": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1022703"
+    },
+    "1022704": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1022704"
+    },
+    "1022705": {
+        "Skill Name": "\u516d\u6975\u8987\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1022705"
+    },
+    "1022801": {
+        "Skill Name": "\u516d\u5149\u306e\u7834\u9b54",
+        "Skill Effects": "1022801"
+    },
+    "1022802": {
+        "Skill Name": "\u516d\u5149\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1022802"
+    },
+    "1022803": {
+        "Skill Name": "\u516d\u6975\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1022803"
+    },
+    "1022804": {
+        "Skill Name": "\u516d\u6975\u7d71\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1022804"
+    },
+    "1022805": {
+        "Skill Name": "\u516d\u6975\u8987\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1022805"
+    },
+    "1022901": {
+        "Skill Name": "\u7259\u306e\u52c7\u8005",
+        "Skill Effects": "1022903"
+    },
+    "1023401": {
+        "Skill Name": "\u52c7\u58eb\u306e\u529b",
+        "Skill Effects": "1023401"
+    },
+    "1023402": {
+        "Skill Name": "\u52c7\u9a0e\u306e\u529b",
+        "Skill Effects": "1023402"
+    },
+    "1023403": {
+        "Skill Name": "\u52c7\u9a0e\u795e\u306e\u529b",
+        "Skill Effects": "1023403"
+    },
+    "1023404": {
+        "Skill Name": "\u52c7\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1023404"
+    },
+    "1023405": {
+        "Skill Name": "\u52c7\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1023405"
+    },
+    "1025001": {
+        "Skill Name": "\u7d14\u7136\u306e\u529b",
+        "Skill Effects": "1025001"
+    },
+    "1025002": {
+        "Skill Name": "\u7d14\u5149\u306e\u529b",
+        "Skill Effects": "1025002"
+    },
+    "1025003": {
+        "Skill Name": "\u7d14\u8f1d\u795e\u306e\u529b",
+        "Skill Effects": "1025003"
+    },
+    "1025004": {
+        "Skill Name": "\u7d14\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1025004"
+    },
+    "1025005": {
+        "Skill Name": "\u7d14\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1025005"
+    },
+    "1025101": {
+        "Skill Name": "\u7d14\u7136\u306e\u52a0\u8b77",
+        "Skill Effects": "1025101"
+    },
+    "1025102": {
+        "Skill Name": "\u7d14\u5149\u306e\u52a0\u8b77",
+        "Skill Effects": "1025102"
+    },
+    "1025103": {
+        "Skill Name": "\u7d14\u8f1d\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1025103"
+    },
+    "1025104": {
+        "Skill Name": "\u7d14\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1025104"
+    },
+    "1025105": {
+        "Skill Name": "\u7d14\u8987\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1025105"
+    },
+    "1025201": {
+        "Skill Name": "\u7d14\u7136\u306e\u9b54\u58c1",
+        "Skill Effects": "1025201"
+    },
+    "1025202": {
+        "Skill Name": "\u7d14\u5149\u306e\u9b54\u58c1",
+        "Skill Effects": "1025202"
+    },
+    "1025203": {
+        "Skill Name": "\u7d14\u8f1d\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1025203"
+    },
+    "1025204": {
+        "Skill Name": "\u7d14\u7d71\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1025204"
+    },
+    "1025205": {
+        "Skill Name": "\u7d14\u8987\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1025205"
+    },
+    "1025301": {
+        "Skill Name": "\u7d14\u7136\u306e\u9b42",
+        "Skill Effects": "1025301"
+    },
+    "1025302": {
+        "Skill Name": "\u7d14\u5149\u306e\u9b42",
+        "Skill Effects": "1025302"
+    },
+    "1025303": {
+        "Skill Name": "\u7d14\u8f1d\u795e\u306e\u9b42",
+        "Skill Effects": "1025303"
+    },
+    "1025304": {
+        "Skill Name": "\u7d14\u7d71\u795e\u306e\u9b42",
+        "Skill Effects": "1025304"
+    },
+    "1025305": {
+        "Skill Name": "\u7d14\u8987\u795e\u306e\u9b42",
+        "Skill Effects": "1025305"
+    },
+    "1030000": {
+        "Skill Name": "\u7570\u92fc\u306e\u7d99\u529b",
+        "Skill Effects": "1030000"
+    },
+    "1101001": {
+        "Skill Name": "\u708e\u970a\u306e\u529b",
+        "Skill Effects": "1101001"
+    },
+    "1101002": {
+        "Skill Name": "\u708e\u795e\u306e\u529b",
+        "Skill Effects": "1101002"
+    },
+    "1101003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u529b",
+        "Skill Effects": "1101003"
+    },
+    "1101004": {
+        "Skill Name": "\u708e\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1101004"
+    },
+    "1101005": {
+        "Skill Name": "\u708e\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1101005"
+    },
+    "1102001": {
+        "Skill Name": "\u708e\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1102001"
+    },
+    "1102002": {
+        "Skill Name": "\u708e\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1102002"
+    },
+    "1102003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1102003"
+    },
+    "1102004": {
+        "Skill Name": "\u708e\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1102004"
+    },
+    "1103001": {
+        "Skill Name": "\u708e\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1103001"
+    },
+    "1103002": {
+        "Skill Name": "\u708e\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1103002"
+    },
+    "1103003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1103003"
+    },
+    "1104001": {
+        "Skill Name": "\u708e\u970a\u306e\u9b42",
+        "Skill Effects": "1104001"
+    },
+    "1104002": {
+        "Skill Name": "\u708e\u795e\u306e\u9b42",
+        "Skill Effects": "1104002"
+    },
+    "1104003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u9b42",
+        "Skill Effects": "1104003"
+    },
+    "1105001": {
+        "Skill Name": "\u708e\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1105001"
+    },
+    "1105002": {
+        "Skill Name": "\u708e\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1105002"
+    },
+    "1105003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1105003"
+    },
+    "1105004": {
+        "Skill Name": "\u708e\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1105004"
+    },
+    "1106001": {
+        "Skill Name": "\u708e\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1106001"
+    },
+    "1106002": {
+        "Skill Name": "\u708e\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1106002"
+    },
+    "1106003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1106003"
+    },
+    "1107001": {
+        "Skill Name": "\u708e\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1107001"
+    },
+    "1107002": {
+        "Skill Name": "\u708e\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1107002"
+    },
+    "1107003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1107003"
+    },
+    "1108001": {
+        "Skill Name": "\u708e\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1108001"
+    },
+    "1108002": {
+        "Skill Name": "\u708e\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1108002"
+    },
+    "1108003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1108003"
+    },
+    "1108101": {
+        "Skill Name": "\u708e\u7cbe\u306e\u8b77\u57df",
+        "Skill Effects": "1108001,10013000"
+    },
+    "1108102": {
+        "Skill Name": "\u708e\u7cbe\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1108002,10013000"
+    },
+    "1108103": {
+        "Skill Name": "\u708e\u7cbe\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1108003,10013000"
+    },
+    "1109001": {
+        "Skill Name": "\u708e\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1109001"
+    },
+    "1109002": {
+        "Skill Name": "\u708e\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1109002"
+    },
+    "1109003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1109003"
+    },
+    "1110001": {
+        "Skill Name": "\u708e\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1110001"
+    },
+    "1110002": {
+        "Skill Name": "\u708e\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1110002"
+    },
+    "1110003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1110003"
+    },
+    "1111001": {
+        "Skill Name": "\u708e\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1111001"
+    },
+    "1111002": {
+        "Skill Name": "\u708e\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1111002"
+    },
+    "1111003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1111003"
+    },
+    "1112001": {
+        "Skill Name": "\u708e\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1112001"
+    },
+    "1112002": {
+        "Skill Name": "\u708e\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1112002"
+    },
+    "1112003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1112003"
+    },
+    "1113001": {
+        "Skill Name": "\u708e\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1113001"
+    },
+    "1113002": {
+        "Skill Name": "\u708e\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1113002"
+    },
+    "1113003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1113003"
+    },
+    "1114001": {
+        "Skill Name": "\u708e\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1114001"
+    },
+    "1114002": {
+        "Skill Name": "\u708e\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1114002"
+    },
+    "1114003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1114003"
+    },
+    "1115001": {
+        "Skill Name": "\u708e\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1115001"
+    },
+    "1115002": {
+        "Skill Name": "\u708e\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1115002"
+    },
+    "1115003": {
+        "Skill Name": "\u708e\u696d\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1115003"
+    },
+    "1201001": {
+        "Skill Name": "\u6c34\u970a\u306e\u529b",
+        "Skill Effects": "1201001"
+    },
+    "1201002": {
+        "Skill Name": "\u6c34\u795e\u306e\u529b",
+        "Skill Effects": "1201002"
+    },
+    "1201003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u529b",
+        "Skill Effects": "1201003"
+    },
+    "1201004": {
+        "Skill Name": "\u6c34\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1201004"
+    },
+    "1201005": {
+        "Skill Name": "\u6c34\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1201005"
+    },
+    "1202001": {
+        "Skill Name": "\u6c34\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1202001"
+    },
+    "1202002": {
+        "Skill Name": "\u6c34\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1202002"
+    },
+    "1202003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1202003"
+    },
+    "1202004": {
+        "Skill Name": "\u6c34\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1202004"
+    },
+    "1203001": {
+        "Skill Name": "\u6c34\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1203001"
+    },
+    "1203002": {
+        "Skill Name": "\u6c34\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1203002"
+    },
+    "1203003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1203003"
+    },
+    "1203004": {
+        "Skill Name": "\u6c34\u7d71\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1203004"
+    },
+    "1203005": {
+        "Skill Name": "\u6c34\u8987\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1203005"
+    },
+    "1204001": {
+        "Skill Name": "\u6c34\u970a\u306e\u9b42",
+        "Skill Effects": "1204001"
+    },
+    "1204002": {
+        "Skill Name": "\u6c34\u795e\u306e\u9b42",
+        "Skill Effects": "1204002"
+    },
+    "1204003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u9b42",
+        "Skill Effects": "1204003"
+    },
+    "1205001": {
+        "Skill Name": "\u6c34\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1205001"
+    },
+    "1205002": {
+        "Skill Name": "\u6c34\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1205002"
+    },
+    "1205003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1205003"
+    },
+    "1205004": {
+        "Skill Name": "\u6c34\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1205004"
+    },
+    "1206001": {
+        "Skill Name": "\u6c34\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1206001"
+    },
+    "1206002": {
+        "Skill Name": "\u6c34\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1206002"
+    },
+    "1206003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1206003"
+    },
+    "1207001": {
+        "Skill Name": "\u6c34\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1207001"
+    },
+    "1207002": {
+        "Skill Name": "\u6c34\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1207002"
+    },
+    "1207003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1207003"
+    },
+    "1208001": {
+        "Skill Name": "\u6c34\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1208001"
+    },
+    "1208002": {
+        "Skill Name": "\u6c34\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1208002"
+    },
+    "1208003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1208003"
+    },
+    "1208101": {
+        "Skill Name": "\u6c34\u7cbe\u306e\u8b77\u57df",
+        "Skill Effects": "1208001,10011000"
+    },
+    "1208102": {
+        "Skill Name": "\u6c34\u7cbe\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1208002,10011000"
+    },
+    "1208103": {
+        "Skill Name": "\u6c34\u7cbe\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1208003,10011000"
+    },
+    "1209001": {
+        "Skill Name": "\u6c34\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1209001"
+    },
+    "1209002": {
+        "Skill Name": "\u6c34\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1209002"
+    },
+    "1209003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1209003"
+    },
+    "1210001": {
+        "Skill Name": "\u6c34\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1210001"
+    },
+    "1210002": {
+        "Skill Name": "\u6c34\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1210002"
+    },
+    "1210003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1210003"
+    },
+    "1211001": {
+        "Skill Name": "\u6c34\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1211001"
+    },
+    "1211002": {
+        "Skill Name": "\u6c34\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1211002"
+    },
+    "1211003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1211003"
+    },
+    "1212001": {
+        "Skill Name": "\u6c34\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1212001"
+    },
+    "1212002": {
+        "Skill Name": "\u6c34\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1212002"
+    },
+    "1212003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1212003"
+    },
+    "1213001": {
+        "Skill Name": "\u6c34\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1213001"
+    },
+    "1213002": {
+        "Skill Name": "\u6c34\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1213002"
+    },
+    "1213003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1213003"
+    },
+    "1214001": {
+        "Skill Name": "\u6c34\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1214001"
+    },
+    "1214002": {
+        "Skill Name": "\u6c34\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1214002"
+    },
+    "1214003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1214003"
+    },
+    "1215001": {
+        "Skill Name": "\u6c34\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1215001"
+    },
+    "1215002": {
+        "Skill Name": "\u6c34\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1215002"
+    },
+    "1215003": {
+        "Skill Name": "\u6c34\u93e1\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1215003"
+    },
+    "1301001": {
+        "Skill Name": "\u6a39\u970a\u306e\u529b",
+        "Skill Effects": "1301001"
+    },
+    "1301002": {
+        "Skill Name": "\u6a39\u795e\u306e\u529b",
+        "Skill Effects": "1301002"
+    },
+    "1301003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u529b",
+        "Skill Effects": "1301003"
+    },
+    "1301004": {
+        "Skill Name": "\u6a39\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1301004"
+    },
+    "1301005": {
+        "Skill Name": "\u6a39\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1301005"
+    },
+    "1302001": {
+        "Skill Name": "\u6a39\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1302001"
+    },
+    "1302002": {
+        "Skill Name": "\u6a39\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1302002"
+    },
+    "1302003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1302003"
+    },
+    "1302004": {
+        "Skill Name": "\u6a39\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1302004"
+    },
+    "1303001": {
+        "Skill Name": "\u6a39\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1303001"
+    },
+    "1303002": {
+        "Skill Name": "\u6a39\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1303002"
+    },
+    "1303003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1303003"
+    },
+    "1304001": {
+        "Skill Name": "\u6a39\u970a\u306e\u9b42",
+        "Skill Effects": "1304001"
+    },
+    "1304002": {
+        "Skill Name": "\u6a39\u795e\u306e\u9b42",
+        "Skill Effects": "1304002"
+    },
+    "1304003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u9b42",
+        "Skill Effects": "1304003"
+    },
+    "1305001": {
+        "Skill Name": "\u6a39\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1305001"
+    },
+    "1305002": {
+        "Skill Name": "\u6a39\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1305002"
+    },
+    "1305003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1305003"
+    },
+    "1305004": {
+        "Skill Name": "\u6a39\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1305004"
+    },
+    "1306001": {
+        "Skill Name": "\u6a39\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1306001"
+    },
+    "1306002": {
+        "Skill Name": "\u6a39\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1306002"
+    },
+    "1306003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1306003"
+    },
+    "1307001": {
+        "Skill Name": "\u6a39\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1307001"
+    },
+    "1307002": {
+        "Skill Name": "\u6a39\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1307002"
+    },
+    "1307003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1307003"
+    },
+    "1308001": {
+        "Skill Name": "\u6a39\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1308001"
+    },
+    "1308002": {
+        "Skill Name": "\u6a39\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1308002"
+    },
+    "1308003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1308003"
+    },
+    "1308101": {
+        "Skill Name": "\u6a39\u7cbe\u306e\u8b77\u57df",
+        "Skill Effects": "1308001,10014000"
+    },
+    "1308102": {
+        "Skill Name": "\u6a39\u7cbe\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1308002,10014000"
+    },
+    "1308103": {
+        "Skill Name": "\u6a39\u7cbe\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1308003,10014000"
+    },
+    "1309001": {
+        "Skill Name": "\u6a39\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1309001"
+    },
+    "1309002": {
+        "Skill Name": "\u6a39\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1309002"
+    },
+    "1309003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1309003"
+    },
+    "1310001": {
+        "Skill Name": "\u6a39\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1310001"
+    },
+    "1310002": {
+        "Skill Name": "\u6a39\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1310002"
+    },
+    "1310003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1310003"
+    },
+    "1311001": {
+        "Skill Name": "\u6a39\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1311001"
+    },
+    "1311002": {
+        "Skill Name": "\u6a39\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1311002"
+    },
+    "1311003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1311003"
+    },
+    "1312001": {
+        "Skill Name": "\u6a39\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1312001"
+    },
+    "1312002": {
+        "Skill Name": "\u6a39\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1312002"
+    },
+    "1312003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1312003"
+    },
+    "1313001": {
+        "Skill Name": "\u6a39\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1313001"
+    },
+    "1313002": {
+        "Skill Name": "\u6a39\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1313002"
+    },
+    "1313003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1313003"
+    },
+    "1314001": {
+        "Skill Name": "\u6a39\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1314001"
+    },
+    "1314002": {
+        "Skill Name": "\u6a39\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1314002"
+    },
+    "1314003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1314003"
+    },
+    "1315001": {
+        "Skill Name": "\u6a39\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1115001"
+    },
+    "1315002": {
+        "Skill Name": "\u6a39\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1115002"
+    },
+    "1315003": {
+        "Skill Name": "\u6a39\u83ef\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1115003"
+    },
+    "1401001": {
+        "Skill Name": "\u96f7\u970a\u306e\u529b",
+        "Skill Effects": "1401001"
+    },
+    "1401002": {
+        "Skill Name": "\u96f7\u795e\u306e\u529b",
+        "Skill Effects": "1401002"
+    },
+    "1401003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u529b",
+        "Skill Effects": "1401003"
+    },
+    "1401004": {
+        "Skill Name": "\u96f7\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1401004"
+    },
+    "1401005": {
+        "Skill Name": "\u96f7\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1401005"
+    },
+    "1402001": {
+        "Skill Name": "\u96f7\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1402001"
+    },
+    "1402002": {
+        "Skill Name": "\u96f7\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1402002"
+    },
+    "1402003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1402003"
+    },
+    "1402004": {
+        "Skill Name": "\u96f7\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1402004"
+    },
+    "1403001": {
+        "Skill Name": "\u96f7\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1403001"
+    },
+    "1403002": {
+        "Skill Name": "\u96f7\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1403002"
+    },
+    "1403003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1403003"
+    },
+    "1404001": {
+        "Skill Name": "\u96f7\u970a\u306e\u9b42",
+        "Skill Effects": "1404001"
+    },
+    "1404002": {
+        "Skill Name": "\u96f7\u795e\u306e\u9b42",
+        "Skill Effects": "1404002"
+    },
+    "1404003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u9b42",
+        "Skill Effects": "1404003"
+    },
+    "1405001": {
+        "Skill Name": "\u96f7\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1405001"
+    },
+    "1405002": {
+        "Skill Name": "\u96f7\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1405002"
+    },
+    "1405003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1405003"
+    },
+    "1405004": {
+        "Skill Name": "\u96f7\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1405004"
+    },
+    "1406001": {
+        "Skill Name": "\u96f7\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1406001"
+    },
+    "1406002": {
+        "Skill Name": "\u96f7\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1406002"
+    },
+    "1406003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1406003"
+    },
+    "1407001": {
+        "Skill Name": "\u96f7\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1407001"
+    },
+    "1407002": {
+        "Skill Name": "\u96f7\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1407002"
+    },
+    "1407003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1407003"
+    },
+    "1408001": {
+        "Skill Name": "\u96f7\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1408001"
+    },
+    "1408002": {
+        "Skill Name": "\u96f7\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1408002"
+    },
+    "1408003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1408003"
+    },
+    "1408101": {
+        "Skill Name": "\u96f7\u7cbe\u306e\u8b77\u57df",
+        "Skill Effects": "1408001,10012000"
+    },
+    "1408102": {
+        "Skill Name": "\u96f7\u7cbe\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1408002,10012000"
+    },
+    "1408103": {
+        "Skill Name": "\u96f7\u7cbe\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1408003,10012000"
+    },
+    "1409001": {
+        "Skill Name": "\u96f7\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1409001"
+    },
+    "1409002": {
+        "Skill Name": "\u96f7\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1409002"
+    },
+    "1409003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1409003"
+    },
+    "1410001": {
+        "Skill Name": "\u96f7\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1410001"
+    },
+    "1410002": {
+        "Skill Name": "\u96f7\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1410002"
+    },
+    "1410003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1410003"
+    },
+    "1411001": {
+        "Skill Name": "\u96f7\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1411001"
+    },
+    "1411002": {
+        "Skill Name": "\u96f7\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1411002"
+    },
+    "1411003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1411003"
+    },
+    "1412001": {
+        "Skill Name": "\u96f7\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1412001"
+    },
+    "1412002": {
+        "Skill Name": "\u96f7\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1412002"
+    },
+    "1412003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1412003"
+    },
+    "1413001": {
+        "Skill Name": "\u96f7\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1413001"
+    },
+    "1413002": {
+        "Skill Name": "\u96f7\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1413002"
+    },
+    "1413003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1413003"
+    },
+    "1414001": {
+        "Skill Name": "\u96f7\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1414001"
+    },
+    "1414002": {
+        "Skill Name": "\u96f7\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1414002"
+    },
+    "1414003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1414003"
+    },
+    "1415001": {
+        "Skill Name": "\u96f7\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1215001"
+    },
+    "1415002": {
+        "Skill Name": "\u96f7\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1215002"
+    },
+    "1415003": {
+        "Skill Name": "\u96f7\u8f5f\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1215003"
+    },
+    "1501001": {
+        "Skill Name": "\u5149\u970a\u306e\u529b",
+        "Skill Effects": "1501001"
+    },
+    "1501002": {
+        "Skill Name": "\u5149\u795e\u306e\u529b",
+        "Skill Effects": "1501002"
+    },
+    "1501003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u529b",
+        "Skill Effects": "1501003"
+    },
+    "1501004": {
+        "Skill Name": "\u5149\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1501004"
+    },
+    "1501005": {
+        "Skill Name": "\u5149\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1501005"
+    },
+    "1502001": {
+        "Skill Name": "\u5149\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1502001"
+    },
+    "1502002": {
+        "Skill Name": "\u5149\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1502002"
+    },
+    "1502003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1502003"
+    },
+    "1502004": {
+        "Skill Name": "\u5149\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1502004"
+    },
+    "1503001": {
+        "Skill Name": "\u5149\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1503001"
+    },
+    "1503002": {
+        "Skill Name": "\u5149\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1503002"
+    },
+    "1503003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1503003"
+    },
+    "1504001": {
+        "Skill Name": "\u5149\u970a\u306e\u9b42",
+        "Skill Effects": "1504001"
+    },
+    "1504002": {
+        "Skill Name": "\u5149\u795e\u306e\u9b42",
+        "Skill Effects": "1504002"
+    },
+    "1504003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u9b42",
+        "Skill Effects": "1504003"
+    },
+    "1505001": {
+        "Skill Name": "\u5149\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1505001"
+    },
+    "1505002": {
+        "Skill Name": "\u5149\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1505002"
+    },
+    "1505003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1505003"
+    },
+    "1505004": {
+        "Skill Name": "\u5149\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1505004"
+    },
+    "1506001": {
+        "Skill Name": "\u5149\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1506001"
+    },
+    "1506002": {
+        "Skill Name": "\u5149\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1506002"
+    },
+    "1506003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1506003"
+    },
+    "1507001": {
+        "Skill Name": "\u5149\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1507001"
+    },
+    "1507002": {
+        "Skill Name": "\u5149\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1507002"
+    },
+    "1507003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1507003"
+    },
+    "1508001": {
+        "Skill Name": "\u5149\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1508001"
+    },
+    "1508002": {
+        "Skill Name": "\u5149\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1508002"
+    },
+    "1508003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1508003"
+    },
+    "1509001": {
+        "Skill Name": "\u5149\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1509001"
+    },
+    "1509002": {
+        "Skill Name": "\u5149\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1509002"
+    },
+    "1509003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1509003"
+    },
+    "1510001": {
+        "Skill Name": "\u5149\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1510001"
+    },
+    "1510002": {
+        "Skill Name": "\u5149\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1510002"
+    },
+    "1510003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1510003"
+    },
+    "1511001": {
+        "Skill Name": "\u5149\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1511001"
+    },
+    "1511002": {
+        "Skill Name": "\u5149\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1511002"
+    },
+    "1511003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1511003"
+    },
+    "1512001": {
+        "Skill Name": "\u5149\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1512001"
+    },
+    "1512002": {
+        "Skill Name": "\u5149\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1512002"
+    },
+    "1512003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1512003"
+    },
+    "1513001": {
+        "Skill Name": "\u5149\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1513001"
+    },
+    "1513002": {
+        "Skill Name": "\u5149\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1513002"
+    },
+    "1513003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1513003"
+    },
+    "1514001": {
+        "Skill Name": "\u5149\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1514001"
+    },
+    "1514002": {
+        "Skill Name": "\u5149\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1514002"
+    },
+    "1514003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1514003"
+    },
+    "1515001": {
+        "Skill Name": "\u5149\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1514001"
+    },
+    "1515002": {
+        "Skill Name": "\u5149\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1514002"
+    },
+    "1515003": {
+        "Skill Name": "\u5149\u8f1d\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1514003"
+    },
+    "1601001": {
+        "Skill Name": "\u95c7\u970a\u306e\u529b",
+        "Skill Effects": "1601001"
+    },
+    "1601002": {
+        "Skill Name": "\u95c7\u795e\u306e\u529b",
+        "Skill Effects": "1601002"
+    },
+    "1601003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u529b",
+        "Skill Effects": "1601003"
+    },
+    "1601004": {
+        "Skill Name": "\u95c7\u7d71\u795e\u306e\u529b",
+        "Skill Effects": "1601004"
+    },
+    "1601005": {
+        "Skill Name": "\u95c7\u8987\u795e\u306e\u529b",
+        "Skill Effects": "1601005"
+    },
+    "1602001": {
+        "Skill Name": "\u95c7\u970a\u306e\u52a0\u8b77",
+        "Skill Effects": "1602001"
+    },
+    "1602002": {
+        "Skill Name": "\u95c7\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1602002"
+    },
+    "1602003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1602003"
+    },
+    "1602004": {
+        "Skill Name": "\u95c7\u7d71\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1602004"
+    },
+    "1602005": {
+        "Skill Name": "\u95c7\u8987\u795e\u306e\u52a0\u8b77",
+        "Skill Effects": "1602005"
+    },
+    "1603001": {
+        "Skill Name": "\u95c7\u970a\u306e\u9b54\u58c1",
+        "Skill Effects": "1603001"
+    },
+    "1603002": {
+        "Skill Name": "\u95c7\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1603002"
+    },
+    "1603003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1603003"
+    },
+    "1603004": {
+        "Skill Name": "\u95c7\u7d71\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1603004"
+    },
+    "1603005": {
+        "Skill Name": "\u95c7\u8987\u795e\u306e\u9b54\u58c1",
+        "Skill Effects": "1603005"
+    },
+    "1604001": {
+        "Skill Name": "\u95c7\u970a\u306e\u9b42",
+        "Skill Effects": "1604001"
+    },
+    "1604002": {
+        "Skill Name": "\u95c7\u795e\u306e\u9b42",
+        "Skill Effects": "1604002"
+    },
+    "1604003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u9b42",
+        "Skill Effects": "1604003"
+    },
+    "1605001": {
+        "Skill Name": "\u95c7\u970a\u306e\u6ce2\u52d5",
+        "Skill Effects": "1605001"
+    },
+    "1605002": {
+        "Skill Name": "\u95c7\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1605002"
+    },
+    "1605003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1605003"
+    },
+    "1605004": {
+        "Skill Name": "\u95c7\u7d71\u795e\u306e\u6ce2\u52d5",
+        "Skill Effects": "1605004"
+    },
+    "1606001": {
+        "Skill Name": "\u95c7\u970a\u306e\u7834\u9b54",
+        "Skill Effects": "1606001"
+    },
+    "1606002": {
+        "Skill Name": "\u95c7\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1606002"
+    },
+    "1606003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u7834\u9b54",
+        "Skill Effects": "1606003"
+    },
+    "1607001": {
+        "Skill Name": "\u95c7\u970a\u306e\u970a\u529b",
+        "Skill Effects": "1607001"
+    },
+    "1607002": {
+        "Skill Name": "\u95c7\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1607002"
+    },
+    "1607003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u970a\u529b",
+        "Skill Effects": "1607003"
+    },
+    "1608001": {
+        "Skill Name": "\u95c7\u970a\u306e\u8b77\u57df",
+        "Skill Effects": "1608001"
+    },
+    "1608002": {
+        "Skill Name": "\u95c7\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1608002"
+    },
+    "1608003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u8b77\u57df",
+        "Skill Effects": "1608003"
+    },
+    "1609001": {
+        "Skill Name": "\u95c7\u970a\u306e\u547d\u8056",
+        "Skill Effects": "1609001"
+    },
+    "1609002": {
+        "Skill Name": "\u95c7\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1609002"
+    },
+    "1609003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u547d\u8056",
+        "Skill Effects": "1609003"
+    },
+    "1610001": {
+        "Skill Name": "\u95c7\u970a\u306e\u9b54\u9b42",
+        "Skill Effects": "1610001"
+    },
+    "1610002": {
+        "Skill Name": "\u95c7\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1610002"
+    },
+    "1610003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u9b54\u9b42",
+        "Skill Effects": "1610003"
+    },
+    "1611001": {
+        "Skill Name": "\u95c7\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1611001"
+    },
+    "1611002": {
+        "Skill Name": "\u95c7\u5275\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1611002"
+    },
+    "1611003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u95d8\u65a5",
+        "Skill Effects": "1611003"
+    },
+    "1612001": {
+        "Skill Name": "\u95c7\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1612001"
+    },
+    "1612002": {
+        "Skill Name": "\u95c7\u5275\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1612002"
+    },
+    "1612003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u6226\u6602",
+        "Skill Effects": "1612003"
+    },
+    "1613001": {
+        "Skill Name": "\u95c7\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1613001"
+    },
+    "1613002": {
+        "Skill Name": "\u95c7\u5275\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1613002"
+    },
+    "1613003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u9b54\u696d",
+        "Skill Effects": "1613003"
+    },
+    "1614001": {
+        "Skill Name": "\u95c7\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1614001"
+    },
+    "1614002": {
+        "Skill Name": "\u95c7\u5275\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1614002"
+    },
+    "1614003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u7d76\u754c",
+        "Skill Effects": "1614003"
+    },
+    "1615001": {
+        "Skill Name": "\u95c7\u970a\u306e\u5a01\u5149",
+        "Skill Effects": "1614001"
+    },
+    "1615002": {
+        "Skill Name": "\u95c7\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1614002"
+    },
+    "1615003": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "1614003"
+    },
+    "2010000": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u5149",
+        "Skill Effects": "2010000"
+    },
+    "2010001": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u8f1d\u304d",
+        "Skill Effects": "2010001"
+    },
+    "2010002": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u714c\u3081\u304d",
+        "Skill Effects": "2010002"
+    },
+    "2010003": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u9583\u5149",
+        "Skill Effects": "2010003"
+    },
+    "2010004": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u8987\u5149",
+        "Skill Effects": "2010004"
+    },
+    "2010005": {
+        "Skill Name": "\u91cd\u6fc0\u306e\u795e\u5149",
+        "Skill Effects": "2010005"
+    },
+    "2010006": {
+        "Skill Name": "\u96f7\u9cf4\u306e\u52c7\u8005",
+        "Skill Effects": "2010003"
+    },
+    "2010100": {
+        "Skill Name": "\u7d05\u9a0e\u306e\u9583\u5149",
+        "Skill Effects": "2010001,2020003"
+    },
+    "2010101": {
+        "Skill Name": "\u7d05\u9a0e\u306e\u708e\u9583",
+        "Skill Effects": "2010002,2020004"
+    },
+    "2010102": {
+        "Skill Name": "\u7d05\u9a0e\u306e\u7114\u9583",
+        "Skill Effects": "2010003,2020005"
+    },
+    "2020000": {
+        "Skill Name": "\u95d8\u3044\u306e\u5149",
+        "Skill Effects": "2020000"
+    },
+    "2020001": {
+        "Skill Name": "\u95d8\u3044\u306e\u8f1d\u304d",
+        "Skill Effects": "2020001"
+    },
+    "2020002": {
+        "Skill Name": "\u95d8\u3044\u306e\u714c\u3081\u304d",
+        "Skill Effects": "2020002"
+    },
+    "2020003": {
+        "Skill Name": "\u95d8\u3044\u306e\u9583\u5149",
+        "Skill Effects": "2020003"
+    },
+    "2020004": {
+        "Skill Name": "\u95d8\u3044\u306e\u8987\u5149",
+        "Skill Effects": "2020004"
+    },
+    "2020005": {
+        "Skill Name": "\u95d8\u3044\u306e\u5275\u5149",
+        "Skill Effects": "2020005"
+    },
+    "2020006": {
+        "Skill Name": "\u95d8\u3044\u306e\u795e\u5149",
+        "Skill Effects": "2020006"
+    },
+    "2030000": {
+        "Skill Name": "\u5fc3\u306e\u5149",
+        "Skill Effects": "2030000"
+    },
+    "2030001": {
+        "Skill Name": "\u5fc3\u306e\u8f1d\u304d",
+        "Skill Effects": "2030001"
+    },
+    "2030002": {
+        "Skill Name": "\u5fc3\u306e\u714c\u3081\u304d",
+        "Skill Effects": "2030002"
+    },
+    "2030003": {
+        "Skill Name": "\u5fc3\u306e\u9583\u5149",
+        "Skill Effects": "2030003"
+    },
+    "2030004": {
+        "Skill Name": "\u5fc3\u306e\u8987\u5149",
+        "Skill Effects": "2030004"
+    },
+    "2030005": {
+        "Skill Name": "\u5fc3\u306e\u5275\u5149",
+        "Skill Effects": "2030005"
+    },
+    "2030006": {
+        "Skill Name": "\u5fc3\u306e\u795e\u5149",
+        "Skill Effects": "2030006"
+    },
+    "2040000": {
+        "Skill Name": "\u5bcc\u306e\u5149",
+        "Skill Effects": "2040000"
+    },
+    "2040001": {
+        "Skill Name": "\u5bcc\u306e\u8f1d\u304d",
+        "Skill Effects": "2040001"
+    },
+    "2050000": {
+        "Skill Name": "\u5875\u5203\u306e\u714c\u9583",
+        "Skill Effects": "2060000,11090000"
+    },
+    "3010000": {
+        "Skill Name": "\u7834\u58ca\u306e\u885d\u52d5",
+        "Skill Effects": "3010000"
+    },
+    "3010001": {
+        "Skill Name": "\u7834\u58ca\u795e\u306e\u8a98\u3044",
+        "Skill Effects": "3010001"
+    },
+    "3010002": {
+        "Skill Name": "\u7834\u58ca\u795e\u306e\u6fc0\u9707",
+        "Skill Effects": "3010002"
+    },
+    "3010003": {
+        "Skill Name": "\u58ca\u529b\u306e\u885d\u52d5",
+        "Skill Effects": "3010005"
+    },
+    "3010004": {
+        "Skill Name": "\u7834\u58ca\u306e\u885d\u6fc0",
+        "Skill Effects": "3010006"
+    },
+    "3010100": {
+        "Skill Name": "\u84bc\u9a0e\u306e\u885d\u6483",
+        "Skill Effects": "3010005,11080003"
+    },
+    "3010101": {
+        "Skill Name": "\u84bc\u9a0e\u306e\u6c37\u58ca",
+        "Skill Effects": "3010000,11080004"
+    },
+    "3010102": {
+        "Skill Name": "\u84bc\u9a0e\u306e\u96f9\u58ca",
+        "Skill Effects": "3010006,11080005"
+    },
+    "3020000": {
+        "Skill Name": "\u9583\u6483\u306e\u5203",
+        "Skill Effects": "3020000"
+    },
+    "3020001": {
+        "Skill Name": "\u9583\u6483\u306e\u8987\u5203",
+        "Skill Effects": "3020001"
+    },
+    "3020002": {
+        "Skill Name": "\u9583\u6483\u306e\u92ed\u5203",
+        "Skill Effects": "3020002"
+    },
+    "3020003": {
+        "Skill Name": "\u9583\u6483\u306e\u5203",
+        "Skill Effects": "3020005"
+    },
+    "3020004": {
+        "Skill Name": "\u9583\u6483\u306e\u92ed\u5203",
+        "Skill Effects": "3020006"
+    },
+    "3020005": {
+        "Skill Name": "\u9583\u6483\u306e\u9b54\u5203",
+        "Skill Effects": "3020007"
+    },
+    "3020006": {
+        "Skill Name": "\u9583\u6483\u306e\u8987\u5203",
+        "Skill Effects": "3020008"
+    },
+    "3020007": {
+        "Skill Name": "\u9583\u6483\u306e\u795e\u5203",
+        "Skill Effects": "3020009"
+    },
+    "3020008": {
+        "Skill Name": "\u89d2\u306e\u52c7\u8005",
+        "Skill Effects": "3020008"
+    },
+    "3030000": {
+        "Skill Name": "\u6c99\u86c7\u306e\u7011\u6483",
+        "Skill Effects": "3010006,3020009,1001005"
+    },
+    "4010000": {
+        "Skill Name": "\u51f1\u95d8\u306e\u529b",
+        "Skill Effects": "4010000"
+    },
+    "4010001": {
+        "Skill Name": "\u51f1\u95d8\u306e\u529b\u5a01",
+        "Skill Effects": "4010001"
+    },
+    "4010002": {
+        "Skill Name": "\u51f1\u95d8\u306e\u66b4\u5a01",
+        "Skill Effects": "4010002"
+    },
+    "4010003": {
+        "Skill Name": "\u51f1\u95d8\u306e\u6ec5\u5a01",
+        "Skill Effects": "4010003"
+    },
+    "4010004": {
+        "Skill Name": "\u51f1\u95d8\u306e\u795e\u5a01",
+        "Skill Effects": "4010004"
+    },
+    "4010100": {
+        "Skill Name": "\u51f1\u5a01\u306e\u6602\u529b",
+        "Skill Effects": "4010200"
+    },
+    "4010101": {
+        "Skill Name": "\u51f1\u5a01\u306e\u6602\u66b4",
+        "Skill Effects": "4010201"
+    },
+    "4010102": {
+        "Skill Name": "\u51f1\u5a01\u306e\u6602\u6ec5",
+        "Skill Effects": "4010202"
+    },
+    "4010200": {
+        "Skill Name": "\u51f1\u7dcb\u306e\u9b54\u529b",
+        "Skill Effects": "4010005,5080000"
+    },
+    "4020601": {
+        "Skill Name": "\u95c7\u795e\u306e\u65ad\u7f6a",
+        "Skill Effects": "4020601"
+    },
+    "4020602": {
+        "Skill Name": "\u95c7\u6ec5\u795e\u306e\u65ad\u7f6a",
+        "Skill Effects": "4020602"
+    },
+    "4020603": {
+        "Skill Name": "\u95c7\u7d71\u795e\u306e\u65ad\u7f6a",
+        "Skill Effects": "4020603"
+    },
+    "5010000": {
+        "Skill Name": "\u529b\u306e\u9f13\u52d5",
+        "Skill Effects": "5010000"
+    },
+    "5010001": {
+        "Skill Name": "\u795e\u6483\u306e\u8108\u52d5",
+        "Skill Effects": "5010001"
+    },
+    "5010002": {
+        "Skill Name": "\u795e\u6483\u306e\u547d\u52d5",
+        "Skill Effects": "5010002"
+    },
+    "5010003": {
+        "Skill Name": "\u795e\u6483\u306e\u547d\u52d5",
+        "Skill Effects": "5010003"
+    },
+    "5010004": {
+        "Skill Name": "\u795e\u6483\u306e\u9f13\u8108",
+        "Skill Effects": "5010010"
+    },
+    "5020004": {
+        "Skill Name": "\u6226\u58eb\u306e\u53f7\u4ee4",
+        "Skill Effects": "5020004"
+    },
+    "5020005": {
+        "Skill Name": "\u82f1\u96c4\u306e\u53f7\u4ee4",
+        "Skill Effects": "5020005"
+    },
+    "5020006": {
+        "Skill Name": "\u8ce2\u738b\u306e\u53f7\u4ee4",
+        "Skill Effects": "5020006"
+    },
+    "5020007": {
+        "Skill Name": "\u5929\u5e1d\u306e\u53f7\u4ee4",
+        "Skill Effects": "5020007"
+    },
+    "5020008": {
+        "Skill Name": "\u5f3e\u4e38\u306e\u52c7\u8005",
+        "Skill Effects": "5020006"
+    },
+    "5040002": {
+        "Skill Name": "\u53db\u6226\u306e\u5149",
+        "Skill Effects": "5040002"
+    },
+    "5040003": {
+        "Skill Name": "\u53db\u6226\u306e\u5a01\u5149",
+        "Skill Effects": "5040003"
+    },
+    "5040004": {
+        "Skill Name": "\u53db\u6226\u306e\u7d71\u5149",
+        "Skill Effects": "5040004"
+    },
+    "5040005": {
+        "Skill Name": "\u53db\u6226\u306e\u8987\u5149",
+        "Skill Effects": "5040005"
+    },
+    "5040006": {
+        "Skill Name": "\u53db\u6226\u306e\u5149",
+        "Skill Effects": "5040008"
+    },
+    "5040007": {
+        "Skill Name": "\u53db\u6226\u306e\u5a01\u5149",
+        "Skill Effects": "5040009"
+    },
+    "5040008": {
+        "Skill Name": "\u53db\u6226\u306e\u7d71\u5149",
+        "Skill Effects": "5040010"
+    },
+    "5040009": {
+        "Skill Name": "\u53db\u6226\u306e\u8987\u5149",
+        "Skill Effects": "5040011"
+    },
+    "5040010": {
+        "Skill Name": "\u53db\u6226\u306e\u5a01\u5149",
+        "Skill Effects": "5040012"
+    },
+    "5040011": {
+        "Skill Name": "\u53db\u6226\u306e\u7d71\u5149",
+        "Skill Effects": "5040013"
+    },
+    "5040012": {
+        "Skill Name": "\u53db\u6226\u306e\u8987\u5149",
+        "Skill Effects": "5040014"
+    },
+    "5040013": {
+        "Skill Name": "\u93a7\u306e\u52c7\u8005",
+        "Skill Effects": "5040014"
+    },
+    "5040100": {
+        "Skill Name": "\u96f7\u9583\u306e\u53db\u5149",
+        "Skill Effects": "5040012,6020001"
+    },
+    "5040101": {
+        "Skill Name": "\u96f7\u9583\u306e\u53db\u795d",
+        "Skill Effects": "5040013,6020002"
+    },
+    "5040102": {
+        "Skill Name": "\u96f7\u9583\u306e\u53db\u8aa0",
+        "Skill Effects": "5040014,6020003"
+    },
+    "5050000": {
+        "Skill Name": "\u6226\u795e\u306e\u5149",
+        "Skill Effects": "5050000"
+    },
+    "5050001": {
+        "Skill Name": "\u6226\u795e\u306e\u5a01\u5149",
+        "Skill Effects": "5050001"
+    },
+    "5050002": {
+        "Skill Name": "\u6226\u795e\u306e\u7d71\u5149",
+        "Skill Effects": "5050002"
+    },
+    "5050003": {
+        "Skill Name": "\u6226\u795e\u306e\u8987\u5149",
+        "Skill Effects": "5050003"
+    },
+    "5070000": {
+        "Skill Name": "\u9583\u97ff\u306e\u5149",
+        "Skill Effects": "5070000"
+    },
+    "5070001": {
+        "Skill Name": "\u9583\u97ff\u306e\u5a01\u5149",
+        "Skill Effects": "5070001"
+    },
+    "5070002": {
+        "Skill Name": "\u9583\u97ff\u306e\u5a01\u5149",
+        "Skill Effects": "5070004"
+    },
+    "5070003": {
+        "Skill Name": "\u9583\u97ff\u306e\u5149",
+        "Skill Effects": "5070005"
+    },
+    "5070004": {
+        "Skill Name": "\u9583\u97ff\u306e\u5a01\u5149",
+        "Skill Effects": "5070006"
+    },
+    "5070005": {
+        "Skill Name": "\u9583\u97ff\u306e\u5a01\u5149",
+        "Skill Effects": "5070007"
+    },
+    "5080000": {
+        "Skill Name": "\u738b\u8005\u306e\u9b54\u529b",
+        "Skill Effects": "5080000"
+    },
+    "5080001": {
+        "Skill Name": "\u8987\u738b\u306e\u9b54\u529b",
+        "Skill Effects": "5080001"
+    },
+    "5080002": {
+        "Skill Name": "\u7d71\u795e\u306e\u9b54\u529b",
+        "Skill Effects": "5080002"
+    },
+    "6010100": {
+        "Skill Name": "\u8056\u5973\u306e\u795d\u798f",
+        "Skill Effects": "6010100"
+    },
+    "6010101": {
+        "Skill Name": "\u5929\u754c\u306e\u6075\u307f",
+        "Skill Effects": "6010101"
+    },
+    "6010102": {
+        "Skill Name": "\u5929\u754c\u306e\u7948\u308a",
+        "Skill Effects": "6010102"
+    },
+    "6010103": {
+        "Skill Name": "\u5929\u754c\u306e\u795d\u6075",
+        "Skill Effects": "6010103"
+    },
+    "6010104": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "6010104"
+    },
+    "6010105": {
+        "Skill Name": "\u8056\u5973\u306e\u7948\u308a",
+        "Skill Effects": "6010109"
+    },
+    "6010106": {
+        "Skill Name": "\u697d\u3057\u307f\u306e\u5bc6\u5075",
+        "Skill Effects": "6010100"
+    },
+    "6010107": {
+        "Skill Name": "\u7f85\u6bb2\u306e\u7652\u529b",
+        "Skill Effects": "1004003,6010100,6030007"
+    },
+    "6020000": {
+        "Skill Name": "\u6148\u611b\u306e\u5fc3",
+        "Skill Effects": "6020000"
+    },
+    "6020001": {
+        "Skill Name": "\u6148\u611b\u306e\u795d\u5fc3",
+        "Skill Effects": "6020001"
+    },
+    "6020002": {
+        "Skill Name": "\u6148\u611b\u306e\u771f\u5fc3",
+        "Skill Effects": "6020002"
+    },
+    "6020003": {
+        "Skill Name": "\u6148\u611b\u306e\u8aa0\u5fc3",
+        "Skill Effects": "6020003"
+    },
+    "6020004": {
+        "Skill Name": "\u6297\u5f31\u306e\u6148\u5fc3",
+        "Skill Effects": "6020003,8003001"
+    },
+    "6020005": {
+        "Skill Name": "\u6297\u602a\u306e\u6148\u5fc3",
+        "Skill Effects": "6020003,8002001"
+    },
+    "6020006": {
+        "Skill Name": "\u6297\u865a\u306e\u6148\u5fc3",
+        "Skill Effects": "6020003,8005001"
+    },
+    "6020007": {
+        "Skill Name": "\u6297\u96d1\u306e\u6148\u5fc3",
+        "Skill Effects": "6020003,8004001"
+    },
+    "6030003": {
+        "Skill Name": "\u7652\u795e\u306e\u6075\u606f",
+        "Skill Effects": "6030003"
+    },
+    "7000000": {
+        "Skill Name": "\u95d8\u3044\u306e\u5929\u5553",
+        "Skill Effects": "7000000"
+    },
+    "7000001": {
+        "Skill Name": "\u95d8\u3044\u306e\u795e\u5553",
+        "Skill Effects": "7000001"
+    },
+    "7010000": {
+        "Skill Name": "\u5fc3\u306e\u5929\u5553",
+        "Skill Effects": "7010000"
+    },
+    "7010001": {
+        "Skill Name": "\u5fc3\u306e\u795e\u5553",
+        "Skill Effects": "7010001"
+    },
+    "7010002": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7010002"
+    },
+    "7010003": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7010003"
+    },
+    "7030000": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7030000"
+    },
+    "7030001": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7030001"
+    },
+    "7030002": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7030002"
+    },
+    "7030003": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7030005"
+    },
+    "7030004": {
+        "Skill Name": "\u5bcc\u306e\u5929\u5553",
+        "Skill Effects": "7030006"
+    },
+    "7030005": {
+        "Skill Name": "\u5bcc\u306e\u795e\u5553",
+        "Skill Effects": "7030007"
+    },
+    "7030006": {
+        "Skill Name": "\u4f7f\u7528\u7121\u3057",
+        "Skill Effects": "7030008"
+    },
+    "7040000": {
+        "Skill Name": "\u5927\u602a\u76d7\u306e\u6280\u5de7",
+        "Skill Effects": "7040000"
+    },
+    "7040001": {
+        "Skill Name": "\u602a\u76d7\u795e\u306e\u6280\u5de7",
+        "Skill Effects": "7040001"
+    },
+    "7040002": {
+        "Skill Name": "\u602a\u76d7\u795e\u306e\u79d8\u8853",
+        "Skill Effects": "7040002"
+    },
+    "7040003": {
+        "Skill Name": "\u602a\u76d7\u795e\u306e\u6697\u8853",
+        "Skill Effects": "7040005"
+    },
+    "7040004": {
+        "Skill Name": "\u5927\u602a\u76d7\u306e\u6280\u5de7",
+        "Skill Effects": "7040006"
+    },
+    "7040005": {
+        "Skill Name": "\u602a\u76d7\u795e\u306e\u6280\u5de7",
+        "Skill Effects": "7040007"
+    },
+    "7040006": {
+        "Skill Name": "\u602a\u76d7\u795e\u306e\u79d8\u8853",
+        "Skill Effects": "7040008"
+    },
+    "7050000": {
+        "Skill Name": "\u5fc3\u95d8\u306e\u5929\u5553",
+        "Skill Effects": "7050000"
+    },
+    "7050001": {
+        "Skill Name": "\u5fc3\u95d8\u306e\u795e\u5553",
+        "Skill Effects": "7050001"
+    },
+    "7050002": {
+        "Skill Name": "\u5fc3\u95d8\u306e\u5929\u5149",
+        "Skill Effects": "7050002"
+    },
+    "7050003": {
+        "Skill Name": "\u5fc3\u95d8\u306e\u795e\u5149",
+        "Skill Effects": "7050003"
+    },
+    "8001001": {
+        "Skill Name": "\u6bd2\u306e\u6d44\u5149",
+        "Skill Effects": "8001001"
+    },
+    "8002000": {
+        "Skill Name": "\u602a\u6211\u306e\u6d44\u5149",
+        "Skill Effects": "8002000"
+    },
+    "8003000": {
+        "Skill Name": "\u5f31\u4f53\u306e\u6d44\u5149",
+        "Skill Effects": "8003000"
+    },
+    "8004000": {
+        "Skill Name": "\u96d1\u5ff5\u306e\u6d44\u5149",
+        "Skill Effects": "8004000"
+    },
+    "8005000": {
+        "Skill Name": "\u611f\u67d3\u306e\u6d44\u5149",
+        "Skill Effects": "8005000"
+    },
+    "8006000": {
+        "Skill Name": "\u75c5\u6c17\u306e\u6d44\u5149",
+        "Skill Effects": "8006000"
+    },
+    "8007000": {
+        "Skill Name": "\u9ebb\u75fa\u306e\u6d44\u5149",
+        "Skill Effects": "8007000"
+    },
+    "8008000": {
+        "Skill Name": "\u546a\u3044\u306e\u6d44\u5149",
+        "Skill Effects": "8008000"
+    },
+    "8009000": {
+        "Skill Name": "\u5e7b\u899a\u306e\u6d44\u5149",
+        "Skill Effects": "8009000"
+    },
+    "8010000": {
+        "Skill Name": "\u6df7\u4e71\u306e\u6d44\u5149",
+        "Skill Effects": "8010000"
+    },
+    "8011000": {
+        "Skill Name": "\u6050\u6016\u306e\u6d44\u5149",
+        "Skill Effects": "8011000"
+    },
+    "8012000": {
+        "Skill Name": "\u7d76\u671b\u306e\u6d44\u5149",
+        "Skill Effects": "8012000"
+    },
+    "8013000": {
+        "Skill Name": "\u9b45\u4e86\u306e\u6d44\u5149",
+        "Skill Effects": "8013000"
+    },
+    "8014000": {
+        "Skill Name": "\u53ec\u7e1b\u306e\u6d44\u5149",
+        "Skill Effects": "8014000"
+    },
+    "8015000": {
+        "Skill Name": "\u5fd8\u5374\u306e\u6d44\u5149",
+        "Skill Effects": "8015000"
+    },
+    "8016000": {
+        "Skill Name": "\u6c38\u9060\u306e\u5929\u5553",
+        "Skill Effects": "8016000"
+    },
+    "9001000": {
+        "Skill Name": "\u30c6\u30b9\u30c81",
+        "Skill Effects": "8001000"
+    },
+    "9001001": {
+        "Skill Name": "\u30c6\u30b9\u30c82",
+        "Skill Effects": "8001001"
+    },
+    "9001002": {
+        "Skill Name": "\u30c6\u30b9\u30c83",
+        "Skill Effects": "8001002"
+    },
+    "9001003": {
+        "Skill Name": "\u30c6\u30b9\u30c84",
+        "Skill Effects": "8016000"
+    },
+    "9001010": {
+        "Skill Name": "\u30c6\u30b9\u30c85",
+        "Skill Effects": "5010003"
+    },
+    "9001020": {
+        "Skill Name": "\u30c6\u30b9\u30c86",
+        "Skill Effects": "6020000"
+    },
+    "9001030": {
+        "Skill Name": "\u30c6\u30b9\u30c87",
+        "Skill Effects": "1016001"
+    },
+    "9001031": {
+        "Skill Name": "\u30c6\u30b9\u30c88",
+        "Skill Effects": "1016002"
+    },
+    "9001032": {
+        "Skill Name": "\u30c6\u30b9\u30c89",
+        "Skill Effects": "1016003"
+    },
+    "9001040": {
+        "Skill Name": "\u30c6\u30b9\u30c810",
+        "Skill Effects": "10020000"
+    },
+    "9001050": {
+        "Skill Name": "\u30c6\u30b9\u30c811",
+        "Skill Effects": "6050002"
+    },
+    "9001060": {
+        "Skill Name": "\u30c6\u30b9\u30c812",
+        "Skill Effects": "7000000"
+    },
+    "9001061": {
+        "Skill Name": "\u30c6\u30b9\u30c813",
+        "Skill Effects": "7040000"
+    },
+    "9001070": {
+        "Skill Name": "\u30c6\u30b9\u30c814",
+        "Skill Effects": "1019001"
+    },
+    "9001071": {
+        "Skill Name": "\u30c6\u30b9\u30c815",
+        "Skill Effects": "1019401"
+    },
+    "9001080": {
+        "Skill Name": "\u30c6\u30b9\u30c816",
+        "Skill Effects": "5060001"
+    },
+    "9001090": {
+        "Skill Name": "\u30c6\u30b9\u30c817",
+        "Skill Effects": "6030000"
+    },
+    "9001100": {
+        "Skill Name": "\u30c6\u30b9\u30c818",
+        "Skill Effects": "5040001"
+    },
+    "9001110": {
+        "Skill Name": "\u30c6\u30b9\u30c819",
+        "Skill Effects": "1017001"
+    },
+    "9001111": {
+        "Skill Name": "\u30c6\u30b9\u30c820",
+        "Skill Effects": "1017002"
+    },
+    "9001112": {
+        "Skill Name": "\u30c6\u30b9\u30c821",
+        "Skill Effects": "1017003"
+    },
+    "9001120": {
+        "Skill Name": "\u30c6\u30b9\u30c822",
+        "Skill Effects": "5050002"
+    },
+    "9001130": {
+        "Skill Name": "\u30c6\u30b9\u30c823",
+        "Skill Effects": "6010003"
+    },
+    "9001131": {
+        "Skill Name": "\u30c6\u30b9\u30c824",
+        "Skill Effects": "5020003"
+    },
+    "9001140": {
+        "Skill Name": "\u30c6\u30b9\u30c825",
+        "Skill Effects": "1021101"
+    },
+    "9001141": {
+        "Skill Name": "\u30c6\u30b9\u30c826",
+        "Skill Effects": "1022402"
+    },
+    "9001150": {
+        "Skill Name": "\u30c6\u30b9\u30c827",
+        "Skill Effects": "5070000"
+    },
+    "9001160": {
+        "Skill Name": "\u30c6\u30b9\u30c828",
+        "Skill Effects": "11000000"
+    },
+    "9001161": {
+        "Skill Name": "\u30c6\u30b9\u30c829",
+        "Skill Effects": "11000001"
+    },
+    "9001162": {
+        "Skill Name": "\u30c6\u30b9\u30c830",
+        "Skill Effects": "11000002"
+    },
+    "9001170": {
+        "Skill Name": "\u30c6\u30b9\u30c831",
+        "Skill Effects": "10110000"
+    },
+    "9001171": {
+        "Skill Name": "\u30c6\u30b9\u30c832",
+        "Skill Effects": "10110001"
+    },
+    "9001172": {
+        "Skill Name": "\u30c6\u30b9\u30c833",
+        "Skill Effects": "10170000"
+    },
+    "9001180": {
+        "Skill Name": "\u30c6\u30b9\u30c834",
+        "Skill Effects": "4010000"
+    },
+    "9001190": {
+        "Skill Name": "\u30c6\u30b9\u30c835",
+        "Skill Effects": "11000000"
+    },
+    "9001200": {
+        "Skill Name": "\u30c6\u30b9\u30c836",
+        "Skill Effects": "8100000"
+    },
+    "9001201": {
+        "Skill Name": "\u30c6\u30b9\u30c837",
+        "Skill Effects": "8100001"
+    },
+    "9001202": {
+        "Skill Name": "\u30c6\u30b9\u30c838",
+        "Skill Effects": "8103000"
+    },
+    "9001203": {
+        "Skill Name": "\u30c6\u30b9\u30c839",
+        "Skill Effects": "8103001"
+    },
+    "9002002": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9002002"
+    },
+    "9002003": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9002003"
+    },
+    "9002004": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9002004"
+    },
+    "9002005": {
+        "Skill Name": "\u602a\u75ab\u306e\u5146\u5019",
+        "Skill Effects": "9002005"
+    },
+    "9002006": {
+        "Skill Name": "\u602a\u75ab\u306e\u6ce2\u7d0b",
+        "Skill Effects": "9002006"
+    },
+    "9002007": {
+        "Skill Name": "\u602a\u75ab\u306e\u8513\u5ef6",
+        "Skill Effects": "9002007"
+    },
+    "9003002": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9003002"
+    },
+    "9003003": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9003003"
+    },
+    "9003004": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9003004"
+    },
+    "9003005": {
+        "Skill Name": "\u5f31\u75ab\u306e\u5146\u5019",
+        "Skill Effects": "9003005"
+    },
+    "9003006": {
+        "Skill Name": "\u5f31\u75ab\u306e\u6ce2\u7d0b",
+        "Skill Effects": "9003006"
+    },
+    "9003007": {
+        "Skill Name": "\u5f31\u75ab\u306e\u8513\u5ef6",
+        "Skill Effects": "9003007"
+    },
+    "9004002": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9004002"
+    },
+    "9004003": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9004003"
+    },
+    "9004004": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9004004"
+    },
+    "9004005": {
+        "Skill Name": "\u96d1\u75ab\u306e\u5146\u5019",
+        "Skill Effects": "9004005"
+    },
+    "9004006": {
+        "Skill Name": "\u96d1\u75ab\u306e\u6ce2\u7d0b",
+        "Skill Effects": "9004006"
+    },
+    "9004007": {
+        "Skill Name": "\u96d1\u75ab\u306e\u8513\u5ef6",
+        "Skill Effects": "9004007"
+    },
+    "9005002": {
+        "Skill Name": "\u865a\u75ab\u306e\u5146\u5019",
+        "Skill Effects": "9005005"
+    },
+    "9005003": {
+        "Skill Name": "\u865a\u75ab\u306e\u6ce2\u7d0b",
+        "Skill Effects": "9005006"
+    },
+    "9005004": {
+        "Skill Name": "\u865a\u75ab\u306e\u8513\u5ef6",
+        "Skill Effects": "9005007"
+    },
+    "9008002": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9008002"
+    },
+    "9008003": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9008003"
+    },
+    "9008004": {
+        "Skill Name": "\u4f7f\u7528\u4e0d\u53ef",
+        "Skill Effects": "9008004"
+    },
+    "9008005": {
+        "Skill Name": "\u546a\u75ab\u306e\u5146\u5019",
+        "Skill Effects": "9008005"
+    },
+    "9008006": {
+        "Skill Name": "\u546a\u75ab\u306e\u6ce2\u7d0b",
+        "Skill Effects": "9008006"
+    },
+    "9008007": {
+        "Skill Name": "\u546a\u75ab\u306e\u8513\u5ef6",
+        "Skill Effects": "9008007"
+    },
+    "10000001": {
+        "Skill Name": "\u86ee\u5091\u306e\u5b88\u8b77",
+        "Skill Effects": "10000001"
+    },
+    "10000002": {
+        "Skill Name": "\u86ee\u5091\u306e\u8b77\u5883",
+        "Skill Effects": "10000002"
+    },
+    "10000003": {
+        "Skill Name": "\u86ee\u5091\u306e\u795e\u57df",
+        "Skill Effects": "10000003"
+    },
+    "10000004": {
+        "Skill Name": "\u86ee\u5091\u306e\u8b77\u308a",
+        "Skill Effects": "10000004"
+    },
+    "10000005": {
+        "Skill Name": "\u86ee\u5091\u306e\u7d50\u754c",
+        "Skill Effects": "10000005"
+    },
+    "10001001": {
+        "Skill Name": "\u8ce2\u5091\u306e\u5b88\u8b77",
+        "Skill Effects": "10001001"
+    },
+    "10001002": {
+        "Skill Name": "\u8ce2\u5091\u306e\u8b77\u5883",
+        "Skill Effects": "10001002"
+    },
+    "10001003": {
+        "Skill Name": "\u8ce2\u5091\u306e\u795e\u57df",
+        "Skill Effects": "10001003"
+    },
+    "10001004": {
+        "Skill Name": "\u8ce2\u5091\u306e\u8b77\u308a",
+        "Skill Effects": "10001004"
+    },
+    "10001005": {
+        "Skill Name": "\u8ce2\u5091\u306e\u7d50\u754c",
+        "Skill Effects": "10001005"
+    },
+    "10001006": {
+        "Skill Name": "\u559c\u3073\u306e\u6226\u9a0e",
+        "Skill Effects": "10001002"
+    },
+    "10011000": {
+        "Skill Name": "\u708e\u306e\u8b77\u308a",
+        "Skill Effects": "10011000"
+    },
+    "10011001": {
+        "Skill Name": "\u708e\u306e\u5b88\u8b77",
+        "Skill Effects": "10011001"
+    },
+    "10011002": {
+        "Skill Name": "\u708e\u306e\u7d50\u754c",
+        "Skill Effects": "10011002"
+    },
+    "10011003": {
+        "Skill Name": "\u708e\u306e\u8b77\u5883",
+        "Skill Effects": "10011003"
+    },
+    "10011004": {
+        "Skill Name": "\u708e\u306e\u795e\u57df",
+        "Skill Effects": "10011004"
+    },
+    "10012000": {
+        "Skill Name": "\u6c34\u306e\u8b77\u308a",
+        "Skill Effects": "10012000"
+    },
+    "10012001": {
+        "Skill Name": "\u6c34\u306e\u5b88\u8b77",
+        "Skill Effects": "10012001"
+    },
+    "10012002": {
+        "Skill Name": "\u6c34\u306e\u7d50\u754c",
+        "Skill Effects": "10012002"
+    },
+    "10012003": {
+        "Skill Name": "\u6c34\u306e\u8b77\u5883",
+        "Skill Effects": "10012003"
+    },
+    "10012004": {
+        "Skill Name": "\u6c34\u306e\u795e\u57df",
+        "Skill Effects": "10012004"
+    },
+    "10013000": {
+        "Skill Name": "\u6a39\u306e\u8b77\u308a",
+        "Skill Effects": "10013000"
+    },
+    "10013001": {
+        "Skill Name": "\u6a39\u306e\u5b88\u8b77",
+        "Skill Effects": "10013001"
+    },
+    "10013002": {
+        "Skill Name": "\u6a39\u306e\u7d50\u754c",
+        "Skill Effects": "10013002"
+    },
+    "10013003": {
+        "Skill Name": "\u6a39\u306e\u8b77\u5883",
+        "Skill Effects": "10013003"
+    },
+    "10013004": {
+        "Skill Name": "\u6a39\u306e\u795e\u57df",
+        "Skill Effects": "10013004"
+    },
+    "10014000": {
+        "Skill Name": "\u96f7\u306e\u8b77\u308a",
+        "Skill Effects": "10014000"
+    },
+    "10014001": {
+        "Skill Name": "\u96f7\u306e\u5b88\u8b77",
+        "Skill Effects": "10014001"
+    },
+    "10014002": {
+        "Skill Name": "\u96f7\u306e\u7d50\u754c",
+        "Skill Effects": "10014002"
+    },
+    "10014003": {
+        "Skill Name": "\u96f7\u306e\u8b77\u5883",
+        "Skill Effects": "10014003"
+    },
+    "10014004": {
+        "Skill Name": "\u96f7\u306e\u795e\u57df",
+        "Skill Effects": "10014004"
+    },
+    "10015000": {
+        "Skill Name": "\u5149\u306e\u8b77\u308a",
+        "Skill Effects": "10015000"
+    },
+    "10015001": {
+        "Skill Name": "\u5149\u306e\u5b88\u8b77",
+        "Skill Effects": "10015001"
+    },
+    "10015002": {
+        "Skill Name": "\u5149\u306e\u7d50\u754c",
+        "Skill Effects": "10015002"
+    },
+    "10015003": {
+        "Skill Name": "\u5149\u306e\u8b77\u5883",
+        "Skill Effects": "10015003"
+    },
+    "10015004": {
+        "Skill Name": "\u5149\u306e\u795e\u57df",
+        "Skill Effects": "10015004"
+    },
+    "10016000": {
+        "Skill Name": "\u95c7\u306e\u8b77\u308a",
+        "Skill Effects": "10016000"
+    },
+    "10016001": {
+        "Skill Name": "\u95c7\u306e\u5b88\u8b77",
+        "Skill Effects": "10016001"
+    },
+    "10016002": {
+        "Skill Name": "\u95c7\u306e\u7d50\u754c",
+        "Skill Effects": "10016002"
+    },
+    "10016003": {
+        "Skill Name": "\u95c7\u306e\u8b77\u5883",
+        "Skill Effects": "10016003"
+    },
+    "10016004": {
+        "Skill Name": "\u95c7\u306e\u795e\u57df",
+        "Skill Effects": "10016004"
+    },
+    "10017000": {
+        "Skill Name": "\u7d71\u8f1d\u306e\u8b77\u308a",
+        "Skill Effects": "10017000"
+    },
+    "10017001": {
+        "Skill Name": "\u7d71\u8f1d\u306e\u5b88\u8b77",
+        "Skill Effects": "10017001"
+    },
+    "10017002": {
+        "Skill Name": "\u7d71\u8f1d\u306e\u7d50\u754c",
+        "Skill Effects": "10017002"
+    },
+    "10017003": {
+        "Skill Name": "\u7d71\u8f1d\u306e\u8b77\u5883",
+        "Skill Effects": "10017003"
+    },
+    "10017004": {
+        "Skill Name": "\u7d71\u8f1d\u306e\u795e\u57df",
+        "Skill Effects": "10017004"
+    },
+    "11000000": {
+        "Skill Name": "\u8b77\u514b\u306e\u53db\u5149",
+        "Skill Effects": "11070000"
+    },
+    "11000001": {
+        "Skill Name": "\u8b77\u514b\u306e\u53db\u8f1d",
+        "Skill Effects": "11070001"
+    },
+    "11000002": {
+        "Skill Name": "\u8b77\u514b\u306e\u53db\u714c",
+        "Skill Effects": "11070002"
+    }
+}
